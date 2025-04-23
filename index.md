@@ -104,12 +104,12 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>Yash Sharma</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>12-07-1998</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>India</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
