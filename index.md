@@ -1,123 +1,75 @@
----
-layout: default
----
-Hello
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Technical Skills
+  
+  >- Programming Languages - Python, C/C++, C#. 
+  >- Web Technologies - HTML, CSS.  
+  >- Database Systems - PostgreSQL, MySQL. 
+  >- Version Control - Git. 
+  >- Analog System Design & Testing - OrCad, KiCad.
+  >- Control System Analysis - MATLAB.
+  >- Audio Processing - FL Studio, Ableton.
+  >- Video Streaming - Obs Studio.
 
-[Link to another page](./another-page.html).
+# Experience
+### RnD Engineer at iTherm
+##### Mumbai. Jan 2024 - Feb 2025. 
+>Tested new products in the development pipeline and provided valuable feedback.
+HMI programmer for various applications and processes [Metallurgy, Pharma, Lab-equipment, and more.]
+Made changes in the Controller Embedded C code to improve efficiency in the user-specied process.
 
-There should be whitespace between paragraphs.
+### Technical Applications Engineer at Aczet
+##### Mumbai. Feb 2023 - Aug 2023.
+>Handled X-ray uorescence Spectrometer, Laser Welder, and Laser Marker/Engraver products.
+Performed calibration and provided feedback to the research and development team.
+Handled international clients [USA, Italy, Hungary, Morocco, UAE, Indonesia, Thailand, Turkey etc].
+Assisted the technicians in solving problems that arose during the product's life cycle and increased the
+operating efficiency of the products.
+Onsite visits to Indonesia and Thailand to resolve product issues and develop business ties.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Freelance 
+##### 2020 to Present.
+>Inventory management of the family business(Jeevandhara Clinic) and generated a prot of 8%.
+Made MCQs/question sets for Engg elds[Electronics, Electrical, Instrumentation & GK] and reviewed
+question sets from other creators for XED Intellect.
 
-# Header 1
+### Public Relations Incharge at Robonut
+##### Mumbai. 2019 to 2020
+>Link up with the management of schools/colleges to provide details/sales pitch to organize technical
+workshops/seminars and design hands-on project kits
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Projects
+### Group Projects
+>- Multi-Purpose Wireless Information Display System [B.E. Project]
+Hardware - NodeMcu Esp8266 (WiFi version), Shift register IC 74HC595, transistor 2n2222.
+Software - Arduino IDE, Proteus IDE, HTML, Mosquito/CloudMQTT.
+>- Drowsiness detection using OpenCV - Python.
 
-## Header 2
+### Solo Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>- CRC-16 Modbus Algorithm in C/C++.
+>- Active Drive Speed Control in C/C++.
+>- Data Search Algorithm in C for HMI printing app.
+>- Solid State Driver Tesla Coil.
+>- R2R LAdder DAC using OpAmp IC741.
+>- RLC Resonance Tesla Coil.
 
-### Header 3
+# Certifications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Codecadmey
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+>- Design Databases with PostgreSQL
+>- Analyze Data with R
+>- Python 3
+>- C/C++
 
-#### Header 4
+### NPTEL
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+>- Data Analytics using Python - IIT R
+>- Discrete-Time Signal Processing - IIT KGP
+>- Control Engineering - IIT Madras
+>- Digital Protection of Power Systems - IIT R
+>- Digital Circuits - IIT KGP
+>- Linear Systems Theory - IIT Madras
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Yash Sharma</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>12-07-1998</dd>
-<dt>Birthplace</dt>
-<dd>India</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Education
+>### B.E [Electronics], University of Mumbai
+>##### Thakur College of Engineering and Technology Batch of 2016 - 2020
