@@ -1,5 +1,4 @@
 # Technical Skills
-  
   >- Programming Languages - Python, C/C++, C#. 
   >- Web Technologies - HTML, CSS.  
   >- Database Systems - PostgreSQL, MySQL. 
@@ -27,8 +26,7 @@ Onsite visits to Indonesia and Thailand to resolve product issues and develop bu
 
 ### Freelance 
 ##### 2020 to Present.
->Inventory management of the family business(Jeevandhara Clinic) and generated a prot of 8%.
-Made MCQs/question sets for Engg elds[Electronics, Electrical, Instrumentation & GK] and reviewed
+>Made MCQs/question sets for Engg elds[Electronics, Electrical, Instrumentation & GK] and reviewed
 question sets from other creators for XED Intellect.
 
 ### Public Relations Incharge at Robonut
@@ -44,7 +42,6 @@ Software - Arduino IDE, Proteus IDE, HTML, Mosquito/CloudMQTT.
 >- Drowsiness detection using OpenCV - Python.
 
 ### Solo Projects
-
 >- CRC-16 Modbus Algorithm in C/C++.
 >- Active Drive Speed Control in C/C++.
 >- Data Search Algorithm in C for HMI printing app.
@@ -53,16 +50,13 @@ Software - Arduino IDE, Proteus IDE, HTML, Mosquito/CloudMQTT.
 >- RLC Resonance Tesla Coil.
 
 # Certifications
-
 ### Codecadmey
-
 >- Design Databases with PostgreSQL
 >- Analyze Data with R
 >- Python 3
 >- C/C++
 
 ### NPTEL
-
 >- Data Analytics using Python - IIT R
 >- Discrete-Time Signal Processing - IIT KGP
 >- Control Engineering - IIT Madras
